@@ -1,0 +1,3 @@
+Testbek Testiyev;ME;987654321;Mastercard
+Testaxon Testjonova;ME;45678;Visa
+Ozodbek Kuchkarov;MG;987655447;Mastercard
